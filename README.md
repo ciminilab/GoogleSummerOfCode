@@ -12,7 +12,7 @@ TODO
 
 CellProfiler is an open-source image analysis workflow tool written in Python. TODO expand.
 
-| Project idea | Expected Project Size | Mentors | GitHub link(s) | Notes |
+| Project idea | Expected Project Size | Mentors | GitHub link(s) | Description |
 ---------------|-----------------------|---------|----------------|-------|
 | a | b | c | d | e |
 
@@ -20,7 +20,7 @@ CellProfiler is an open-source image analysis workflow tool written in Python. T
 
 Piximi is an open-source image analysis workflow tool written in TypeScript. TODO expand.
 
-| Project idea | Expected Project Size | Mentors | GitHub link(s) | Notes |
+| Project idea | Expected Project Size | Mentors | GitHub link(s) | Description |
 ---------------|-----------------------|---------|----------------|-------|
 | a | b | c | d | e |
 
@@ -28,6 +28,6 @@ Piximi is an open-source image analysis workflow tool written in TypeScript. TOD
 
 Bilayers is an open-source image analysis specification, which involves containerization, a LinkML-based specifiation, and Jinja templating. TODO expand.
 
-| Project idea | Expected Project Size | Mentors | GitHub link(s) | Notes |
+| Project idea | Expected Project Size | Mentors | GitHub link(s) | Description |
 ---------------|-----------------------|---------|----------------|-------|
 | a | b | c | d | e |
