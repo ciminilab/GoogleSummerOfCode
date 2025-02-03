@@ -12,22 +12,22 @@ TODO
 
 CellProfiler is an open-source image analysis workflow tool written in Python. TODO expand.
 
-| Project idea | Expected Project Size | Mentors | GitHub link(s) | Description |
----------------|-----------------------|---------|----------------|-------|
-| a | b | c | d | e |
+| Project idea | Expected Outcomes | Expected Project Size | Skills Required/Preferred | Mentors | GitHub link(s) | Description |
+---------------|-------------------|-----------------------|---------------------------|---------|----------------|-------------|
+| a | b | c | d | e | f | g |
 
 ### Piximi
 
 Piximi is an open-source image analysis workflow tool written in TypeScript. TODO expand.
 
-| Project idea | Expected Project Size | Mentors | GitHub link(s) | Description |
----------------|-----------------------|---------|----------------|-------|
-| a | b | c | d | e |
+| Project idea | Expected Outcomes | Expected Project Size | Skills Required/Preferred | Mentors | GitHub link(s) | Description |
+---------------|-------------------|-----------------------|---------------------------|---------|----------------|-------------|
+| a | b | c | d | e | f | g |
 
 ### Bilayers
 
 Bilayers is an open-source image analysis specification, which involves containerization, a LinkML-based specifiation, and Jinja templating. TODO expand.
 
-| Project idea | Expected Project Size | Mentors | GitHub link(s) | Description |
----------------|-----------------------|---------|----------------|-------|
-| a | b | c | d | e |
+| Project idea | Expected Outcomes | Expected Project Size | Skills Required/Preferred | Mentors | GitHub link(s) | Description |
+---------------|-------------------|-----------------------|---------------------------|---------|----------------|-------------|
+| a | b | c | d | e | f | g |
