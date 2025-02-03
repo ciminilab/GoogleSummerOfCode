@@ -1,6 +1,6 @@
 # Google Summer of Code Projects in the Cimini Lab at the Imaging Platform 
 
-Below are the projects we are hoping may be of some interest for GSoC 2025 hopeful-contributors!
+Below are the projects we are hoping may be of some interest for GSoC 2025 hopeful-contributors! Feel free to reach out to bcimini AT broadinstitute DOT org if you want to propose something in one of our projects but not listed below (or even better, hop into the Issues and/or Discussions for the project!)
 
 ## How to apply
 
