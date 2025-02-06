@@ -1,10 +1,14 @@
 # Google Summer of Code Projects in the [Cimini Lab](https://cimini-lab.broadinstitute.org/) at the [Broad Institute Imaging Platform](https://www.broadinstitute.org/imaging) 
 
-The Broad Institute Imaging Platform (est 2007) is a group of computational biologists and computationalists who work to create methods, software, and workflows designed to turn light microscopy images into answered questions. The Cimini lab (est 2021) creates and maintains a number of open-source software tools for those purposes.
+The Broad Institute Imaging Platform (est 2007) is a group of computational biologists and computationalists who work to create methods, software, and workflows designed to turn light microscopy images into answered questions. The Cimini lab (est 2021) creates and maintains a number of open-source software tools for those purposes. Read more about what we do at our lab website (linked above) or our ["stuff we make" site](https://ciminilab.github.io/WeMakeStuff/).
 
 Below are the projects we are hoping may be of some interest for GSoC 2025 hopeful-contributors! Feel free to reach out to bcimini AT broadinstitute DOT org if you want to propose something in one of our projects not listed below (or even better, hop into the Issues and/or Discussions for the project!)
 
-## How to apply
+Jump to:
+
+[How to apply](#apply) | [CellProfiler projects](#cellprofiler) | [Piximi projects](#piximi) | [Bilayers projects](#bilayers)
+
+## How to apply {#apply}
 
 - Please prepare a description of 
   - What you would like to work on
@@ -16,7 +20,7 @@ Below are the projects we are hoping may be of some interest for GSoC 2025 hopef
 
 ## Projects we are looking for help with
 
-### CellProfiler
+### CellProfiler {#cellprofiler}
 
 [CellProfiler](https://cellprofiler.org/) is an open-source image analysis workflow tool written in Python. It allows users to assemble no-code workflow pipelines to apply to however many images they have, whether that is 100 or 1,000,000.
 
@@ -25,7 +29,7 @@ Below are the projects we are hoping may be of some interest for GSoC 2025 hopef
 | Harmonize and simplify CellProfiler's export functionality | New CellProfiler modules ExportMeasurements and ExportCPAProjectFiles; CSV, MySQL, and SQlite backends for the Export module | Large | Python, SQL | [@bethac07](https://github.com/bethac07), [@gnodar01](https://github.com/gnodar01) | [here](https://github.com/CellProfiler/CellProfiler/discussions/4714) | CellProfiler has two modules for exporting measurements: ExportToDatabase (which can write to MySQL or SQLite) and ExportToSpreadsheet (which creates CSVs). Over the years, the functionalities of these two modules has diverged in often-surprising ways; for example, one can select which measurements to export only in EtS, not EtD. We would like to create a single, extensible ExportMeasurements module with a single set of UI choices, which then calls out to backends which do the actual writing. This will allow more consistent user behavior, as well as allow us to more easily support other kinds of output files (such as Parquet) in the future. |
 | Implement "soft warnings" in CellProfiler | A new warning class in CellProfiler, with specific behavior warnings implemented in many modules | Large | Python | [@bethac07](https://github.com/bethac07), [@ErinWeisbart](https://github.com/ErinWeisbart), [@gnodar01](https://github.com/gnodar01) | [here](https://github.com/CellProfiler/CellProfiler/issues/4961) | CellProfiler's flexibility comes with a downside; there are many things a user CAN do that are not often a good idea TO DO, and for an inexperienced user, it is sometimes hard to know what is suboptimal (or why). We have begun internally collecting cases where we would like a new "soft warning" class to be implemented; in this project, the applicant will make changes to the CellProfiler internals to enable such a warning class, and implement the existing cases |
 
-### Piximi
+### Piximi {#piximi}
 
 [Piximi](https://piximi.app/) is an open-source image analysis client-side web-app written in TypeScript. It is an "Images to Discovery" platform that allows users to upload images, segment and/or classify them with deep learning, and then measure them all without installation or the data needing to leave their machine.
 
@@ -33,7 +37,7 @@ Below are the projects we are hoping may be of some interest for GSoC 2025 hopef
 ---------------|-------------------|-----------------------|---------------------------|---------|----------------|-------------|
 | a | b | c | d | e | f | g |
 
-### Bilayers
+### Bilayers {#bilayers}
 
 [Bilayers](https://bilayers.org/) is an open-source image analysis specification and CI/CD, which involves containerization, a LinkML-based specifiation, and Jinja templating. It is designed to allow bioimage analysts to describe any containerized tool or algorithm in a human-readable config file, and to use that config file to automatically create GUI tool versions as well as interfaces to other tools (such as CellProfiler).
 
