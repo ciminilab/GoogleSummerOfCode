@@ -145,7 +145,7 @@ Required:
 <a href="https://github.com/Andrea-Papaleo">@Andrea-Papaleo</a>
 </td>
 <td>N/A</td>
-<td><div class="long-description">Piximi is an open-source, client-side image analysis platform designed to handle biological image datasets. One of the core functionalities Piximi aims to enhance is real-time instance segmentation for biological objects (e.g., cells, bacteria, or tissues).
+<td><div class="long-description">One of the core functionalities Piximi aims to enhance is real-time instance segmentation for biological objects (e.g., cells, bacteria, or tissues).
 <br/>
 <br/>
 <div>
@@ -153,7 +153,7 @@ This project will focus on:
 <ul>
 <li>Developing and fine-tuning a YOLACT-style model (You Only Look At Coefficients) for biological image segmentation.</li>
 <li>Pretraining the model using high-quality biological datasets to ensure accurate and robust segmentation results.</li>
-<li>Optimizing and porting the model to JavaScript/WebAssembly, enabling fast, client-side inference in Piximi without requiring a backend server.</li>
+<li>Optimizing and porting the model to JavaScript, enabling fast, client-side inference in Piximi without requiring a backend server.</li>
 </ul>
 
 This will allow seamless, on-device segmentation, ensuring privacy, speed, and accessibility for users analyzing bioimages.
@@ -185,7 +185,7 @@ This will allow seamless, on-device segmentation, ensuring privacy, speed, and a
 </td>
 <td><a href="https://github.com/Andrea-Papaleo">@Andrea-Papaleo</a></td>
 <td>N/A</td>
-<td><div class="long-description">Piximi is a client-side image analysis platform designed for biological imaging. While it provides an intuitive browser-based interface, many researchers and data scientists prefer working within Jupyter notebooks for interactive data exploration and analysis.
+<td><div class="long-description">While Piximi provides an intuitive browser-based interface, many researchers and data scientists prefer working within Jupyter notebooks for interactive data exploration and analysis.
 <br/>
 <div>
 This project will enable Piximi’s functionality within Jupyter notebooks by:
