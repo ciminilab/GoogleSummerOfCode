@@ -144,7 +144,7 @@ Required:
 <td>
 <a href="https://github.com/Andrea-Papaleo">@Andrea-Papaleo</a>
 </td>
-<td><a href="https://github.com/piximi/piximi">GitHub</a></td>
+<td>N/A</td>
 <td><div class="long-description">Piximi is an open-source, client-side image analysis platform designed to handle biological image datasets. One of the core functionalities Piximi aims to enhance is real-time instance segmentation for biological objects (e.g., cells, bacteria, or tissues).
 <br/>
 <br/>
@@ -184,7 +184,7 @@ This will allow seamless, on-device segmentation, ensuring privacy, speed, and a
 </ul>
 </td>
 <td><a href="https://github.com/Andrea-Papaleo">@Andrea-Papaleo</a></td>
-<td><a href="https://github.com/piximi/piximi">GitHub</a></td>
+<td>N/A</td>
 <td><div class="long-description">Piximi is a client-side image analysis platform designed for biological imaging. While it provides an intuitive browser-based interface, many researchers and data scientists prefer working within Jupyter notebooks for interactive data exploration and analysis.
 <br/>
 <div>
@@ -223,7 +223,7 @@ This integration will expand Piximi’s accessibility and make it easier for res
   <tbody>
     <tr>
       <td>Expand our wrapper list</td>
-      <td>You create one or more interfaces for the Bilayers CI/CD</td>
+      <td><div class="long-description">You create one or more interfaces for the Bilayers CI/CD</div></td>
       <td>Small (1-2 interfaces) through Medium (3-5 interfaces)</td>
       <td>Docker, CI/CD, Jinja templating, LinkML</td>
       <td><a href="https://github.com/bethac07">@bethac07</a>, <a href="https://github.com/gnodar01">@gnodar01</a></td>
@@ -232,7 +232,7 @@ This integration will expand Piximi’s accessibility and make it easier for res
     </tr>
     <tr>
       <td>Expand our wrapped tool list</td>
-      <td>You create one or more containers for image analysis tools or algorithms, and/or fill out config files and test interfaces for several existing containers</td>
+      <td><div class="long-description">You create one or more containers for image analysis tools or algorithms, and/or fill out config files and test interfaces for several existing containers</div></td>
       <td>Small (4-5 tools) through Medium (10-20 tools)</td>
       <td>Docker, CI/CD, LinkML</td>
       <td><a href="https://github.com/bethac07">@bethac07</a></td>
@@ -241,7 +241,7 @@ This integration will expand Piximi’s accessibility and make it easier for res
     </tr>
     <tr>
       <td>Create a better interface for filling out config files</td>
-      <td>One or two small, maintainable tools and/or widgets for creating filled config files</td>
+      <td><div class="long-description">One or two small, maintainable tools and/or widgets for creating filled config files</div></td>
       <td>Small through Medium</td>
       <td>Docker, CI/CD, LinkML</td>
       <td><a href="https://github.com/bethac07">@bethac07</a></td>
