@@ -10,6 +10,9 @@
 .project-table {
   background-color: rgb(252, 252, 252);
 }
+.project-table tr td:first-child {
+  min-width: 150px;
+}
 
 .long-description {
   min-width: 300px;
