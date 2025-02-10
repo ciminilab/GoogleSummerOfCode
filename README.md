@@ -246,7 +246,7 @@ This integration will expand Piximi’s accessibility and make it easier for res
       <td>Docker, CI/CD, LinkML</td>
       <td><a href="https://github.com/bethac07">@bethac07</a></td>
       <td>n/a</td>
-      <td>While the Bilayers config file is smaller and much friendlier than some other large specifications like CWL or WDL, the easier we make it to fill out and/or submit config files, the more config files the project will accumulate. We envision something like a Streamlit app or a Marimo notebook, but are open to even more creative solutions - please tell us more in your proposal!</td>
+      <td><div class="long-description">While the Bilayers config file is smaller and much friendlier than some other large specifications like CWL or WDL, the easier we make it to fill out and/or submit config files, the more config files the project will accumulate. We envision something like a Streamlit app or a Marimo notebook, but are open to even more creative solutions - please tell us more in your proposal!</div></td>
     </tr>
   </tbody>
 </table>
