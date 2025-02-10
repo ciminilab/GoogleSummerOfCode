@@ -150,10 +150,10 @@ Jump to:
       </td>
     </tr>
     <tr>
-      <td>Implementing a YOLACT-Style Model for Real-Time Instance Segmentation in Piximi</td>
+      <td>Implementing a native, trainable, instance segmentation model Piximi</td>
       <td>
         <div class="long-description" >
-        Piximi will feature an integrated, YOLACT-style instance segmentation model capable of running entirely in the browser, giving users a fast, secure, and open-source alternative to existing bioimage analysis tools.
+        Piximi will feature an integrated instance segmentation model capable of being fine-tuned and used for inference entirely in the browser, giving users a fast, secure, and open-source alternative to existing bioimage analysis segmentation tools.
         </div>
       </td>
       <td>Large</td>
@@ -183,9 +183,9 @@ Jump to:
           <div>
             This project will focus on:
             <ul>
-              <li>Developing and fine-tuning a YOLACT-style model (You Only Look At Coefficients) for biological image segmentation.</li>
+              <li>Developing a lightweight YOLACT-style (You Only Look At Coefficients) model for biological image segmentation.</li>
               <li>Pretraining the model using high-quality biological datasets to ensure accurate and robust segmentation results.</li>
-              <li>Optimizing and porting the model to JavaScript, enabling fast, client-side inference in Piximi without requiring a backend server.</li>
+              <li>Optimizing and porting the model to JavaScript, enabling fast, client-side fine tuning and inference in Piximi without requiring a backend server.</li>
             </ul>
             This will allow seamless, on-device segmentation, ensuring privacy, speed, and accessibility for users analyzing bioimages.
           </div>
@@ -219,14 +219,14 @@ Jump to:
       <td>N/A</td>
       <td>
         <div class="long-description">
-          While Piximi provides an intuitive browser-based interface, many researchers and data scientists prefer working within Jupyter notebooks for interactive data exploration and analysis.
+          While Piximi provides an intuitive browser-based interface, many researchers and data scientists prefer working within computational notebooks for interactive data exploration and analysis.
           <br/>
           <div>
-            This project will enable Piximi’s functionality within Jupyter notebooks by:
+            This project will enable Piximi’s functionality within computational notebooks (e.g. Jupyter, marimo, Google Colab, VS Code, etc.) by:
             <ul>
-              <li>Building an API for use with AnyWidget, allowing Jupyter users to access Piximi’s tools.</li>
-              <li>Connecting Piximi’s Redux state to the API, ensuring seamless interaction between the Jupyter frontend and Piximi’s image-processing capabilities.</li>
-              <li>Providing a smooth user experience, enabling users to upload images, annotate, classify, and measure them—all from a Jupyter notebook.</li>
+              <li>Building an AFM (Anywidget Front-End Module) compliant API, allowing notebook users to access Piximi's tools.</li>
+              <li>Connecting Piximi’s Redux state to the API, ensuring seamless interaction between the notebook frontend and Piximi’s image-processing capabilities.</li>
+              <li>Providing a smooth user experience, enabling users to upload images, annotate, segment, classify, and measure them—all from a notebook environment.</li>
             </ul>
           </div>
           This integration will expand Piximi’s accessibility and make it easier for researchers to incorporate Piximi into their Python-based workflows.</div>
