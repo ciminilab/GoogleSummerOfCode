@@ -1,8 +1,8 @@
-# Google Summer of Code Projects in the [Cimini Lab](https://cimini-lab.broadinstitute.org/) at the [Broad Institute Imaging Platform](https://www.broadinstitute.org/imaging)
+# Archive - Google Summer of Code Projects in the [Cimini Lab](https://cimini-lab.broadinstitute.org/) at the [Broad Institute Imaging Platform](https://www.broadinstitute.org/imaging)
 
 The Broad Institute Imaging Platform (est 2007) is a group of computational biologists and computationalists who work to create methods, software, and workflows designed to turn light microscopy images into answered questions. The Cimini lab (est 2021) creates and maintains a number of open-source software tools for those purposes. Read more about what we do at our lab website (linked above) or our ["stuff we make" site](https://ciminilab.github.io/WeMakeStuff/).
 
-Below are the projects we are hoping may be of some interest for GSoC 2025 hopeful-contributors! Feel free to reach out to bcimini AT broadinstitute DOT org if you want to propose something in one of our projects not listed below (or even better, hop into the Issues and/or Discussions for the project!)
+While we were not accepted to GSoc2025 as an organizational partner, below are the projects we are hoping may be of some interest for hopeful-contributors and interns in the future! Feel free to reach out to bcimini AT broadinstitute DOT org if you want to propose something in one of our projects not listed below (or even better, hop into the Issues and/or Discussions for the project!)
 
 Jump to:
 
